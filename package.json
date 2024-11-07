@@ -1,12 +1,12 @@
 {
-  "name": "healthbooker",
+  "name": "House Help",
   "version": "2.0.0",
-  "description": "Doctor appointment website",
+  "description": "House Help website",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Avinash905",
+  "author": "Navya",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
